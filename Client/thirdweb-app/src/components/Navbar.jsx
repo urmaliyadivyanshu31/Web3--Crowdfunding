@@ -47,7 +47,7 @@ const Navbar = () => {
         ))}
       </div>
 
-      <div className="flex md:flex-row flex-col-reverse  mb-[35px] gap-6">
+      <div className="flex md:flex-row flex-col-reverse  m-[10px] gap-6">
     
       <div className="sm:flex hidden items-center flex-row  gap-4">
       
